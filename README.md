@@ -1,1 +1,1 @@
-# sd-colab-prompt-data
+# SD-Wildcards-Dynamic-Prompts
